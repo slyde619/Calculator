@@ -19,6 +19,7 @@ body{
 .wrapper{
     width: 600px;
     max-width: 60%;
+    margin: 0 auto;
     background: #202025;
     border-radius: .5em;
 }
